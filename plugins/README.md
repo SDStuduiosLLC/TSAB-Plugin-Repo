@@ -24,6 +24,8 @@ To add a plugin to the repo, use the format in the `plugins` directory - `@githu
 
 The SDStudios reserves the right to deny a plugin for any reason, but a reasonable one must be given.
 
+> For more information, please read [developers.md]()
+
 ---
 
 ### Saftey Notice
