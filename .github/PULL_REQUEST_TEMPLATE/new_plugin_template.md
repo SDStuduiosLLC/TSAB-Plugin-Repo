@@ -31,4 +31,4 @@ Select only one type, if your plugin requires a listener, please submit a sperat
 
 #### **If applicable, please link the listener your plugin hooks into**:
 
-#### **Comments/Notes For Reviewers/SDStudios Team**:
+#### **Comments/Notes For Reviewers/SDStudios Team**: 
