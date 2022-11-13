@@ -11,6 +11,10 @@ module.exports = {
         version: "",
         /** If present, the plugin will be imported only if the checksum matches. */
         md5hash: "",
+        /** Add any NPM dependancies used in your package here. (Just copy and paste from the package.json.
+          * Just note that using additional dependancies may mean that it takes longer for us to review your plugin.
+          */
+        npmDependancies: [""]
     },
     data: new SlashCommandBuilder()
         .setName('plugin-name')
